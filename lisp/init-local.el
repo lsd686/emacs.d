@@ -2,3 +2,4 @@
 (evil-mode 1)
 
 (provide 'init-local)
+(server-start)
